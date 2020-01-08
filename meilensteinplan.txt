@@ -1,0 +1,23 @@
+20.11	Ablaufdiagramm
+22.11	Entscheidung f�r Methode zur Objekterkennung
+
+27.11	Implementierung der Objekterkennung
+29.11	Distanzerkennung (in Video)
+
+04.12	Implementierung der Steuerbefehle f�r PI-Car
+06.12	Implementierung der Steuerbefehle f�r PI-Car
+
+11.12	Zwischenpr�si ?
+13.12
+
+18.12
+22.12   ?
+
+11.01	Wie kommt PI-Car zu Start zur�ck?
+13.01
+
+18.01	Hinderniserkennung
+20.01
+
+25.01	Abschlusspr�si ?
+27.01

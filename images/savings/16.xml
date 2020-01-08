@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>KI-Bilder</folder>
+	<filename>16.jpg</filename>
+	<path>C:\Users\ducan\Desktop\KI-Bilder\16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tennisball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>235</ymin>
+			<xmax>338</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

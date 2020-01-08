@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>147.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\147.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tennisball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>256</ymin>
+			<xmax>510</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>
